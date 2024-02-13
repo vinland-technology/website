@@ -1,2 +1,3 @@
 # website
-Web site for Vinland.tech
+Mirror of the web site for Vinland.tech. 
+
